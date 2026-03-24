@@ -1,0 +1,61 @@
+route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route_text_color,route_desc
+101,PLT,101,Remera–Downtown,3,00E676,FFFFFF,Corridor A — Fare: 307 RWF
+102,PLT,102,Kabuga–Nyabugogo,3,00E676,FFFFFF,Corridor A — Fare: 741 RWF
+103,PLT,103,Downtown–Kabeza–Rubirizi,3,00E676,FFFFFF,Corridor A — Fare: 484 RWF
+105,PLT,105,Remera–Nyabugogo (Kacyiru),3,00E676,FFFFFF,Corridor A — Fare: 355 RWF
+108,PLT,108,Remera–Nyanza,3,00E676,FFFFFF,Corridor A — Fare: 256 RWF
+109,PLT,109,Remera–Bwerankori,3,00E676,FFFFFF,Corridor A — Fare: 306 RWF
+112,PLT,112,Remera–Nyabugogo (Sonatube),3,00E676,FFFFFF,Corridor A — Fare: 307 RWF
+120,PLT,120,Remera–SEZ,3,00E676,FFFFFF,Corridor A — Fare: 295 RWF
+124,PLT,124,Downtown–Kabuga,3,00E676,FFFFFF,Corridor A — Fare: 741 RWF
+125,PLT,125,Remera–Busanza (Itunda),3,00E676,FFFFFF,Corridor A — Fare: 267 RWF
+106,PLT,106,Remera–Ndera,3,448AFF,FFFFFF,Corridor B — Fare: 269 RWF
+107,PLT,107,Remera–Masaka,3,448AFF,FFFFFF,Corridor B — Fare: 384 RWF
+111,PLT,111,Remera–Kabuga,3,448AFF,FFFFFF,Corridor B — Fare: 420 RWF
+113,PLT,113,Remera–Busanza (Rubirizi),3,448AFF,FFFFFF,Corridor B — Fare: 227 RWF
+114,PLT,114,Remera–Kanombe–Kibaya,3,448AFF,FFFFFF,Corridor B — Fare: 224 RWF
+115,PLT,115,Remera–Busanza (Nyarugunga),3,448AFF,FFFFFF,Corridor B — Fare: 291 RWF
+118,PLT,118,Nyabugogo–Kanombe–Kibaya,3,448AFF,FFFFFF,Corridor B — Fare: 565 RWF
+202,PLT,202,Nyanza–Downtown (Zion),3,E040FB,FFFFFF,Corridor C — Fare: 340 RWF
+203,PLT,203,Nyanza–Downtown (Gatenga),3,E040FB,FFFFFF,Corridor C — Fare: 390 RWF
+204,PLT,204,Nyanza–Nyabugogo (Zion),3,E040FB,FFFFFF,Corridor C — Fare: 422 RWF
+208,PLT,208,Nyanza–Gahanga,3,E040FB,FFFFFF,Corridor C — Fare: 278 RWF
+211,PLT,211,Nyanza–Kacyiru,3,E040FB,FFFFFF,Corridor C — Fare: 364 RWF
+213,PLT,213,Nyanza–Kimironko,3,E040FB,FFFFFF,Corridor C — Fare: 323 RWF
+214,PLT,214,Nyanza–Nyabugogo (Gatenga),3,E040FB,FFFFFF,Corridor C — Fare: 422 RWF
+205,PLT,205,Downtown–Bwerankori,3,FFB300,FFFFFF,Corridor D — Fare: 377 RWF
+206,PLT,206,Nyabugogo–Bwerankori,3,FFB300,FFFFFF,Corridor D — Fare: 382 RWF
+212,PLT,212,Nyabugogo–Saint Joseph,3,FFB300,FFFFFF,Corridor D — Fare: 383 RWF
+215,PLT,215,Kimironko–Bwerankori,3,FFB300,FFFFFF,Corridor D — Fare: 408 RWF
+301,PLT,301,Downtown–Kinyinya,3,00E5FF,FFFFFF,Corridor E — Fare: 403 RWF
+302,PLT,302,Kimironko–Downtown,3,00E5FF,FFFFFF,Corridor E — Fare: 355 RWF
+303,PLT,303,Downtown–Batsinda (Agakiriro),3,00E5FF,FFFFFF,Corridor E — Fare: 301 RWF
+304,PLT,304,Downtown–Kacyiru,3,00E5FF,FFFFFF,Corridor E — Fare: 371 RWF
+306,PLT,306,Kimironko–Masizi–Birembo,3,00E5FF,FFFFFF,Corridor E — Fare: 301 RWF
+308,PLT,308,Downtown–Musave (Zindiro),3,00E5FF,FFFFFF,Corridor E — Fare: 484 RWF
+309,PLT,309,Kimironko–Kinyinya,3,00E5FF,FFFFFF,Corridor E — Fare: 301 RWF
+313,PLT,313,Downtown–Batsinda,3,00E5FF,FFFFFF,Corridor E — Fare: 301 RWF
+316,PLT,316,Kimironko–Musave (Zindiro),3,00E5FF,FFFFFF,Corridor E — Fare: 204 RWF
+318,PLT,318,Kimironko–Batsinda,3,00E5FF,FFFFFF,Corridor E — Fare: 301 RWF
+322,PLT,322,Kimironko–Masaka,3,00E5FF,FFFFFF,Corridor E — Fare: 355 RWF
+325,PLT,325,Kabuga–Kimironko,3,00E5FF,FFFFFF,Corridor E — Fare: 420 RWF
+305,PLT,305,Nyabugogo–Kimironko (Kacyiru),3,FF5252,FFFFFF,Corridor F — Fare: 371 RWF
+310,PLT,310,Nyabugogo–Batsinda (Agakiriro),3,FF5252,FFFFFF,Corridor F — Fare: 301 RWF
+311,PLT,311,Nyabugogo–Batsinda (ULK),3,FF5252,FFFFFF,Corridor F — Fare: 301 RWF
+314,PLT,314,Nyabugogo–Kimironko (Kibagabaga),3,FF5252,FFFFFF,Corridor F — Fare: 339 RWF
+315,PLT,315,Nyabugogo–Kinyinya (Utexrwa),3,FF5252,FFFFFF,Corridor F — Fare: 387 RWF
+317,PLT,317,Downtown–Kinyinya (Utexrwa),3,FF5252,FFFFFF,Corridor F — Fare: 342 RWF
+321,PLT,321,Nyabugogo–Gasanze (Batsinda),3,FF5252,FFFFFF,Corridor F — Fare: 462 RWF
+401,PLT,401,Downtown–Nyamirambo,3,FF6D00,FFFFFF,Corridor G — Fare: 243 RWF
+402,PLT,402,Downtown–Nyamirambo (Kimisagara),3,FF6D00,FFFFFF,Corridor G — Fare: 307 RWF
+403,PLT,403,Downtown–Nyacyonga,3,FF6D00,FFFFFF,Corridor G — Fare: 420 RWF
+404,PLT,404,Nyabugogo–Bishenyi,3,FF6D00,FFFFFF,Corridor G — Fare: 383 RWF
+405,PLT,405,Nyabugogo–Kanyinya,3,FF6D00,FFFFFF,Corridor G — Fare: 484 RWF
+406,PLT,406,Mageragere–Nyamirambo ERP,3,FF6D00,FFFFFF,Corridor G — Fare: 377 RWF
+407,PLT,407,Nyabugogo–Nyacyonga,3,FF6D00,FFFFFF,Corridor G — Fare: 306 RWF
+414,PLT,414,Nyabugogo–Karama,3,FF6D00,FFFFFF,Corridor G — Fare: 310 RWF
+415,PLT,415,Nyabugogo–Downtown,3,FF6D00,FFFFFF,Corridor G — Fare: 205 RWF
+416,PLT,416,Nyabugogo–Gihara,3,FF6D00,FFFFFF,Corridor G — Fare: 383 RWF
+417,PLT,417,Nyamirambo–Karama,3,FF6D00,FFFFFF,Corridor G — Fare: 205 RWF
+418,PLT,418,Nyabugogo–Bweramvura,3,FF6D00,FFFFFF,Corridor G — Fare: 278 RWF
+419,PLT,419,Nyabugogo–Cyumbati,3,FF6D00,FFFFFF,Corridor G — Fare: 307 RWF

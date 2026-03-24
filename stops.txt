@@ -1,0 +1,30 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,wheelchair_boarding
+s1,NYB,Nyabugogo Bus Park,Kigali urban bus terminal,-1.944100,30.061900,kigali,,1,1
+s2,DWT,Downtown Bus Park,Kigali urban bus terminal,-1.953600,30.060600,kigali,,1,1
+s3,RMR,Remera Bus Park,Kigali urban bus terminal,-1.949400,30.109800,kigali,,1,1
+s4,KMR,Kimironko Bus Park,Kigali urban bus terminal,-1.925500,30.117700,kigali,,1,1
+s5,NYZ,Nyanza Bus Park,Kigali urban bus terminal,-2.354500,29.739500,kigali,,1,1
+s6,KBY,Kibaya Bus Terminal,Kigali urban bus terminal,-1.975000,30.158000,kigali,,1,1
+s7,KCY,Kacyiru Bus Stop,Bus stop,-1.935000,30.080000,kigali,,0,1
+s8,STJ,Saint Joseph Terminal,Kigali urban bus terminal,-1.968000,30.040000,kigali,,1,1
+s9,NDR,Ndera Bus Terminal,Kigali urban bus terminal,-1.938000,30.151000,kigali,,1,1
+s10,MSK,Masaka Bus Terminal,Kigali urban bus terminal,-1.950000,30.148000,kigali,,1,1
+s11,BSZ,Busanza Bus Terminal,Kigali urban bus terminal,-1.958000,30.165000,kigali,,1,1
+s12,BTS,Batsinda Bus Terminal,Kigali urban bus terminal,-1.900000,30.095000,kigali,,1,1
+s13,MSV,Musave Bus Terminal,Kigali urban bus terminal,-1.912000,30.140000,kigali,,1,1
+s14,KNY,Kinyinya Bus Terminal,Kigali urban bus terminal,-1.915000,30.108000,kigali,,1,1
+s15,BRM,Birembo Bus Terminal,Kigali urban bus terminal,-1.900000,30.145000,kigali,,1,1
+s16,NYM,Nyamirambo Bus Terminal,Kigali urban bus terminal,-1.965000,30.055000,kigali,,1,1
+s17,NYC,Nyacyonga Bus Terminal,Kigali urban bus terminal,-1.885000,30.042000,kigali,,1,1
+s18,GHG,Gahanga Bus Terminal,Kigali urban bus terminal,-2.200000,29.800000,kigali,,1,1
+s19,KBG,Kabuga Bus Park,Kigali urban bus terminal,-1.944000,30.125000,kigali,,1,1
+s20,BWR,Bwerankori Bus Terminal,Kigali urban bus terminal,-1.928000,30.185000,kigali,,1,1
+s23,BSH,Bishenyi Bus Terminal,Kigali urban bus terminal,-2.010000,30.010000,kigali,,1,1
+s24,KNY2,Kanyinya Bus Terminal,Kigali urban bus terminal,-1.976000,30.020000,kigali,,1,1
+s25,GHR,Gihara Bus Terminal,Kigali urban bus terminal,-1.870000,30.065000,kigali,,1,1
+s26,CYM,Cyumbati Bus Terminal,Kigali urban bus terminal,-1.850000,30.055000,kigali,,1,1
+s27,KRM,Karama Bus Terminal,Kigali urban bus terminal,-1.985000,30.048000,kigali,,1,1
+s28,GSZ,Gasanze Bus Terminal,Kigali urban bus terminal,-1.880000,30.090000,kigali,,1,1
+s29,SEZ,SEZ Bus Terminal,Bus stop,-1.990000,30.120000,kigali,,0,1
+s30,BWV,Bweramvura Bus Terminal,Kigali urban bus terminal,-1.975000,30.032000,kigali,,1,1
+s31,MGR,Mageragere Bus Terminal,Kigali urban bus terminal,-1.978000,30.015000,kigali,,1,1
